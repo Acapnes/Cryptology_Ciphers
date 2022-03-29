@@ -1,0 +1,11 @@
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\bin\Debug\Cryptology.exe.config
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\bin\Debug\Cryptology.exe
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\bin\Debug\Cryptology.pdb
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.csproj.AssemblyReference.cache
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.csproj.SuggestedBindingRedirects.cache
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.Form1.resources
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.Properties.Resources.resources
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.exe
+C:\Users\tr\Desktop\Kriptoloji_odev1\Kriptoloji_odev1\obj\Debug\Cryptology.pdb
